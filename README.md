@@ -1,4 +1,4 @@
-nolookanalytics is a NBA analytics pipeline to ingest game,player, and shot chart data from the NBA API into a local SQlite database.
+```nolookanalytics is a NBA analytics pipeline to ingest game,player, and shot chart data from the NBA API into a local SQlite database.
 Project Structure:
 db/
   nba.db  #SQLite database that is auto created on first run
@@ -94,3 +94,4 @@ python shot_viz.py
 Enter a Player name in the prompt
 Output file: src/Jayson_Tatum_shot_map.png
 
+```
